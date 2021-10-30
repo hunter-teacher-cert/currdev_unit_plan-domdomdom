@@ -18,9 +18,9 @@ Students should learn vanilla JavaScript before working with any libraries that 
 ---
 
 ## Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
-HTML/CSS/JS
-repl.it IDE
+- HTML/CSS/JS
+- repl.it IDE
+- Google Docs for digital notes
 
 ---
 
