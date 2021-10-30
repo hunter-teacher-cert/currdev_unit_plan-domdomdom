@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# JavaScript DOM
 by Lyuba Fridman (in collaboration with Brian Mueller and Daiana Munoz
 
 -----
