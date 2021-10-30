@@ -32,12 +32,12 @@ Khan Academy Programming course - https://www.khanacademy.org/computing/computer
 
 ## Lessons
 Total length: 3 Weeks
-JS and the DOM
-DOM Access Methods
-DOM Events
-DOM Animation
-Guided Project: image gallery
-Final project (4 days)
+- JS and the DOM
+- DOM Access Methods
+- DOM Events
+- DOM Animation
+- Guided Project: image gallery
+- Final project (4 days)
 
 ---
 
