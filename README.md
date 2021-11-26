@@ -4,7 +4,11 @@ by Lyuba Fridman (in collaboration with Brian Mueller and Daiana Munoz
 -----
 
 ## General Overview
-This unit on JavaScript DOM will be taught after HTML and CSS in order to give students the skills they need to build functional web apps. This will also set up a foundation for working with JavaScript libraries such as React or JQuery. Pre-requisites: basic knowledge of JavaScript: variables, if statements, etc. these basic concepts will be taught during a previous unit on game design. Thorough knowledge of HTML/CSS.
+This unit on JavaScript DOM will be taught after HTML and CSS in order to give students the skills they need to build functional web apps. This will also set up a foundation for working with JavaScript libraries such as React or JQuery. 
+
+### Pre-requisites: 
+- basic knowledge of JavaScript: variables, if statements, etc. these basic concepts will be taught during a previous unit on game design. 
+- Thorough knowledge of HTML/CSS.
 ---
 
 ## Motivation for Unit
