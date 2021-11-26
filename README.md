@@ -31,13 +31,25 @@ Khan Academy Programming course - https://www.khanacademy.org/computing/computer
 ---
 
 ## Lessons
-Total length: 3 Weeks
+Total length: 2 Weeks
 - JS and the DOM
+-- 9-12.CT.7 Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
+-- 9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation
 - DOM Access Methods
+-- 9-12.CT.7 Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
+-- 9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation
 - DOM Events
+-- 9-12.CT.7 Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
+-- 9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation 
 - DOM Animation
-- Guided Project: image gallery
+-- 9-12.CT.7 Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
+-- 9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation
+- Guided Project: Image Gallery
+-- 9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation.
 - Final project (4 days)
+-- 9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation.
+-- 9-12.CT.8 Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue
+-- 9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
 
 ---
 
