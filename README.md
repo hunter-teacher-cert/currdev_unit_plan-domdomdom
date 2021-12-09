@@ -17,8 +17,7 @@ Students should learn vanilla JavaScript before working with any libraries that 
 ---
 
 ## Standards Referenced
-(select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)
-NY State Standards: http://www.nysed.gov/common/nysed/files/programs/curriculum-instruction/computer-science-digital-fluency-standards-k-12.pdf
+NY State Standards: http://www.nysed.gov/common/nysed/files/programs/curriculum-instruction/computer-science-digital-fluency-standards-k-12.pdf These standards were chosen because they are the go-to standards for the NY State Computer Science teacher certification.
 
 ---
 
@@ -30,7 +29,6 @@ NY State Standards: http://www.nysed.gov/common/nysed/files/programs/curriculum-
 ---
 
 ## Resources
-(include any links/books/readings to be used during this unit)
 Khan Academy Programming course - https://www.khanacademy.org/computing/computer-programming/html-css-js
 
 ---
