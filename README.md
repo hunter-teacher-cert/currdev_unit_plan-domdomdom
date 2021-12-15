@@ -57,6 +57,14 @@ Total length: 2 Weeks
 ---
 
 ## Assesments
-(list summative and/or formative assessments used)
+
+Formative
+- Show Today's Date
+- Khan Academy coding exercises in each lesson
+- Exit Tickets in each lesson
+
+Summative
+- Guided Project: Image Gallery
+- Final Project
 
 ---
